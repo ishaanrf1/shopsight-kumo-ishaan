@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Data files (large datasets)
+backend/data/*.csv
+backend/data/*.parquet
+backend/data/*.json
+!backend/data/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+.cache/
+docs/
+
+# Ignore downloaded transaction files (large)
+backend/data/transactions/
+
