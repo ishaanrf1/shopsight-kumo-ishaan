@@ -387,28 +387,6 @@ If building for production, these would be added:
 
 ---
 
-## 📸 Screenshots
-
-### Search Interface
-![Search Interface](./screenshots/search.png)
-*Natural language product search with LLM-powered query understanding*
-
-### Sales Analytics Dashboard
-![Dashboard](./screenshots/dashboard.png)
-*Historical sales visualization with 90-day trends*
-
-### AI-Generated Insights
-![AI Insights](./screenshots/insights.png)
-*GPT-4 analyzing sales patterns and generating actionable insights*
-
-### Forecast & Segments
-![Forecast](./screenshots/forecast.png)
-*30-day demand forecast and customer segmentation*
-
-> **Note:** Screenshots to be added. For now, run the demo locally to see the interface.
-
----
-
 ## 📝 License
 
 MIT

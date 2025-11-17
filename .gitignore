@@ -58,4 +58,3 @@ docs/
 
 # Ignore downloaded transaction files (large)
 backend/data/transactions/
-
